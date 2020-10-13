@@ -1,2 +1,3 @@
 # forecasting-taxi-orders
-Forecast of the number of taxi orders for the next hour
+To attract more drivers during peak periods, you need 
+to predict the number of taxi orders for the next hour.
